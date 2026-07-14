@@ -85,6 +85,22 @@ FeeCollector · GridStaking · Governance · Attestation
 
 Explorer: [mainnet](https://robinhoodchain.blockscout.com) · [testnet](https://explorer.testnet.chain.robinhood.com)
 
+## Mainnet Contracts
+
+Deployed on Robinhood Chain mainnet (chain `4663`). All contracts verified on [Blockscout](https://robinhoodchain.blockscout.com).
+
+| Contract | Address |
+|----------|---------|
+| GRID token | [`0x62537c09a874cfe886e052d5afcd28356a98e549`](https://robinhoodchain.blockscout.com/address/0x62537c09a874cfe886e052d5afcd28356a98e549) |
+| GridlockRegistry | [`0xC3F9E16d21F88DC5a7d89317EEC0e1c62206E1Cb`](https://robinhoodchain.blockscout.com/address/0xC3F9E16d21F88DC5a7d89317EEC0e1c62206E1Cb) |
+| Attestation | [`0xD82dC78E2B2B079820E54513bEf4F6649c15b2dA`](https://robinhoodchain.blockscout.com/address/0xD82dC78E2B2B079820E54513bEf4F6649c15b2dA) |
+| JobRouter | [`0xfEEa8b7b2B90CE699238c23a03f0607972150446`](https://robinhoodchain.blockscout.com/address/0xfEEa8b7b2B90CE699238c23a03f0607972150446) |
+| FeeCollector | [`0x2604413db30ef67f28dc50e88daBfC89d6F1f4e0`](https://robinhoodchain.blockscout.com/address/0x2604413db30ef67f28dc50e88daBfC89d6F1f4e0) |
+| GridStaking | [`0x32C074317C86318f5a41137E64AEf611324CA9A9`](https://robinhoodchain.blockscout.com/address/0x32C074317C86318f5a41137E64AEf611324CA9A9) |
+| GridlockGovernance | [`0x124cA42770B8DDcD8e6a9D2EF5201c0b0165eE4E`](https://robinhoodchain.blockscout.com/address/0x124cA42770B8DDcD8e6a9D2EF5201c0b0165eE4E) |
+
+Full deployment details: [`contracts`](https://github.com/Gridlockcompute/contracts)
+
 ## Tech Stack
 
 <p>
